@@ -11,7 +11,7 @@ Here you'll find my latest public projects, where I use publicly available data 
 If you too are interested in the growing space where <b>sustainability meets data science</b>, get in touch and let's see what we can do together 😄
 
 #### Recent blog posts:
-[![Medium Blog](https://github-readme-medium.vercel.app/?username=casscharlton)](https://medium.com/@casscharlton)
+[![Medium Blog](https://github-readme-medium.vercel.app/?username=casscharlton&bg=white&text=black&limit=2)](https://medium.com/@casscharlton)
 
 #### Languages and tools:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassbc)
