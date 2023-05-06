@@ -3,7 +3,7 @@
 
 My name's Cassie<br>
 👩‍💻 I'm a data scientist working in tech<br>
-🎓 I have an MSc in Environmental Sustainability (Distinction)<br>
+🎓 I have an MSc in Environmental Sustainability<br>
 🌱📊I'm passionate about bringing these two fields together<br>
 
 Here you'll find my latest public projects, where I use publicly available data to create sustainability-related insights.
