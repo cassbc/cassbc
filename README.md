@@ -13,7 +13,4 @@ If you too are interested in the growing space where <b>sustainability meets dat
 #### Recent blog posts:
 [![Medium Blog](https://github-readme-medium.vercel.app/?username=casscharlton&bg=white&text=black&limit=2)](https://medium.com/@casscharlton)
 
-#### Languages and tools:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassbc)
-
 ![Cassie's GitHub stats](https://github-readme-stats.vercel.app/api?username=cassbc&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=True)
